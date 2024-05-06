@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094737148946",
+    "project_id": "frbspp80",
+    "storage_bucket": "frbspp80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094737148946:android:141506f80c520be59a6ccb",
+        "android_client_info": {
+          "package_name": "com.FJjrl.ehTpP80"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLj-ED_eoIv6PAMD9FIqf1I4m9evBL9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
